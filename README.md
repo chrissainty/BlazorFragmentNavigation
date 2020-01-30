@@ -1,2 +1,2 @@
 # Blazor Fragment Routing
-This is a companion code sample showing a potential solution to fragment navigation in Blazor. You can checkout the blog post for this solution at [https://chrissainty.com](ChrisSainty.com).
+This is a companion code sample showing a potential solution to fragment navigation in Blazor. You can checkout the blog post for this solution at [ChrisSainty.com](https://chrissainty.com).
